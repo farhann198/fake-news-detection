@@ -104,17 +104,6 @@ fake-news-detection.ipynb
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=farhann198&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farhann198&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 👨‍💻 Author
 
